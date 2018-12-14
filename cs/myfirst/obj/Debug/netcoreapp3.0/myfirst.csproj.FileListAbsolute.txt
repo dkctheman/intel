@@ -1,0 +1,12 @@
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.exe
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.deps.json
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.runtimeconfig.json
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.runtimeconfig.dev.json
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.dll
+D:\code\intel\cs\myfirst\bin\Debug\netcoreapp3.0\myfirst.pdb
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.csprojAssemblyReference.cache
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.csproj.CoreCompileInputs.cache
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.AssemblyInfoInputs.cache
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.AssemblyInfo.cs
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.dll
+D:\code\intel\cs\myfirst\obj\Debug\netcoreapp3.0\myfirst.pdb
