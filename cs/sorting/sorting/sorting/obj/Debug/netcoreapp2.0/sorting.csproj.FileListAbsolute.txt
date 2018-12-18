@@ -9,3 +9,14 @@ c:\code\cs\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.AssemblyInfo.cs
 c:\code\cs\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.dll
 c:\code\cs\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.pdb
 C:\code\cs\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.csprojAssemblyReference.cache
+D:\code\intel\cs\sorting\sorting\sorting\bin\Debug\netcoreapp2.0\sorting.deps.json
+D:\code\intel\cs\sorting\sorting\sorting\bin\Debug\netcoreapp2.0\sorting.runtimeconfig.json
+D:\code\intel\cs\sorting\sorting\sorting\bin\Debug\netcoreapp2.0\sorting.runtimeconfig.dev.json
+D:\code\intel\cs\sorting\sorting\sorting\bin\Debug\netcoreapp2.0\sorting.dll
+D:\code\intel\cs\sorting\sorting\sorting\bin\Debug\netcoreapp2.0\sorting.pdb
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.csprojAssemblyReference.cache
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.csproj.CoreCompileInputs.cache
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.AssemblyInfoInputs.cache
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.AssemblyInfo.cs
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.dll
+D:\code\intel\cs\sorting\sorting\sorting\obj\Debug\netcoreapp2.0\sorting.pdb

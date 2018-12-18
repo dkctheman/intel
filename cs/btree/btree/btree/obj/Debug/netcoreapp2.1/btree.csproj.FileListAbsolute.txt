@@ -1,0 +1,12 @@
+d:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.csproj.CoreCompileInputs.cache
+d:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.AssemblyInfoInputs.cache
+d:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.AssemblyInfo.cs
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.exe
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.deps.json
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.runtimeconfig.json
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.runtimeconfig.dev.json
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.dll
+d:\code\intel\cs\btree\btree\btree\bin\Debug\netcoreapp2.1\btree.pdb
+d:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.dll
+d:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.pdb
+D:\code\intel\cs\btree\btree\btree\obj\Debug\netcoreapp2.1\btree.csprojAssemblyReference.cache
